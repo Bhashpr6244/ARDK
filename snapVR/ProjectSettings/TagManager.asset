@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - REDwire
+  - YELLOWwire
+  - BLUEwire
+  - BLACKwire
+  - PINKwire
   layers:
   - Default
   - TransparentFX
